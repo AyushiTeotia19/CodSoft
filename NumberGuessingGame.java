@@ -63,7 +63,6 @@ public class NumberGuessingGame {
                 System.out.println("Your number is too high. Try again:");
             }
         }
-
         System.out.println();
         sc.close();
     }
