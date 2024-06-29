@@ -40,7 +40,6 @@ public class ATMInterface {
     }
 }
 
-
         class BankAccount {
             private double balance;
 
