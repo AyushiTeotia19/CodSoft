@@ -58,11 +58,6 @@ public class StudentCourseRegistrationSystem {
     }
 
 
-
-
-
-
-
     private static void addStudent(Scanner scanner) {
         System.out.print("Enter student ID: ");
         int id = scanner.nextInt();
