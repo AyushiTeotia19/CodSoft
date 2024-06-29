@@ -1,1 +1,1 @@
-# CodSoft
+This repository contains a series of tasks and projects that I completed during my internship at Codsoft. The tasks cover a range of topics, including Java programming, data structures, algorithms, and software development.
